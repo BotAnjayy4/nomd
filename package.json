@@ -1,12 +1,12 @@
 {
-  "name": "whatsapp-bot-sticker-creator",
+  "name": "X2Botz",
   "version": "10.0.0",
-  "description": "Whatsapp Bot - sticker creator",
+  "description": "Ini Bukan Aqua - Kamu Bohon",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Yoga Sakti",
+  "author": "Inz",
   "repository": {
     "type": "git",
     "url": "https://github.com/YogaSakti/imageToSticker.git"
